@@ -21,7 +21,7 @@ public class Program {
 		
 		//Titulo do post: 
 		
-		
+		Post p1 = new Post(sdf.parse("13/06/2024 23:35 45"),title, content, likes);
 		
 		
 		
