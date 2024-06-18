@@ -24,8 +24,7 @@ public class Program {
 				"I'm poing to visit this wonderrful country", 
 				12);
 		
-	    p1.addComment(c1);
-	    p1.addComment(c2);
+		
 
 		
 		
