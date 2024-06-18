@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\WS-JAVA StringBuilder\.metadata\.plugins\org.eclipse.jdt.core
+2872890695.index
+2373500367.index
+1865797976.index
