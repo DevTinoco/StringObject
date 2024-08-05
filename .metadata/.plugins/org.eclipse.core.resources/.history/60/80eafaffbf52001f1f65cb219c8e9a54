@@ -11,7 +11,7 @@ public class Program {
 		
 		SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yyyy HH:mm:ss");
 		
-		
+		//PRIMEIRO COMANDO
 		//Objeto:
 		Comment c1 = new Comment("Have a nice trip!");
 		Comment c2 = new Comment("Wow that's awesome");
@@ -19,13 +19,17 @@ public class Program {
 		//Variável:
 		
 		Post p1 = new Post(
-				sdf.parse("13/06/2024 23:35 45"),
+				sdf.parse("04/08/2024 21:11:56"),
 				"Traveling to New Zealand", 
 				"I'm poing to visit this wonderrful country", 
 				12);
 		
-		
-
+	    p1.addComment(c1);
+	    p1.addComment(c2);
+	    
+	    System.out.println(p1);
+	                                                    //PRIMEIRO COMANDO
+	    
 		
 		
 		
